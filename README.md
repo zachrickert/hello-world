@@ -7,3 +7,6 @@ This is the added information.
 It is a special part of the readme file.
 
 My name is Zach and I am just starting to learn python.
+
+This is a test to see if I can get a GIT update on-line
+
